@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/BookMovie/static/css/main.073c9b0a.css",
-    "main.js": "/BookMovie/static/js/main.d8acbb38.js",
+    "main.js": "/BookMovie/static/js/main.e2a0855c.js",
     "static/js/787.ba49525a.chunk.js": "/BookMovie/static/js/787.ba49525a.chunk.js",
     "index.html": "/BookMovie/index.html",
     "main.073c9b0a.css.map": "/BookMovie/static/css/main.073c9b0a.css.map",
-    "main.d8acbb38.js.map": "/BookMovie/static/js/main.d8acbb38.js.map",
+    "main.e2a0855c.js.map": "/BookMovie/static/js/main.e2a0855c.js.map",
     "787.ba49525a.chunk.js.map": "/BookMovie/static/js/787.ba49525a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.d8acbb38.js"
+    "static/js/main.e2a0855c.js"
   ]
 }
