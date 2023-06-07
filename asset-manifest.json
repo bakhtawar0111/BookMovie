@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bookmovie/static/css/main.073c9b0a.css",
+    "main.js": "/bookmovie/static/js/main.f2f75410.js",
+    "static/js/787.ba49525a.chunk.js": "/bookmovie/static/js/787.ba49525a.chunk.js",
+    "index.html": "/bookmovie/index.html",
+    "main.073c9b0a.css.map": "/bookmovie/static/css/main.073c9b0a.css.map",
+    "main.f2f75410.js.map": "/bookmovie/static/js/main.f2f75410.js.map",
+    "787.ba49525a.chunk.js.map": "/bookmovie/static/js/787.ba49525a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f2f75410.js"
+  ]
+}
