@@ -16,8 +16,8 @@ function App() {
   }, []);
   return (
     <> 
-    <Router basename="/bookmovie">
-    <Branding/>
+    <Router path="/" basename="/">
+    <Branding path ="/"/>
     <Routes>
       <Route path="/" element={<Firtsscreen/>}/>
     { data.map((finaldata)=>{
