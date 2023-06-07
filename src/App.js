@@ -16,8 +16,8 @@ function App() {
   }, []);
   return (
     <> 
-    <Router path="/" basename="/">
-    <Branding path ="/"/>
+    <Router>
+    <Branding path="/"/>
     <Routes>
       <Route path="/" element={<Firtsscreen/>}/>
     { data.map((finaldata)=>{
