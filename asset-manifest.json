@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/BookMovie/static/css/main.073c9b0a.css",
-    "main.js": "/BookMovie/static/js/main.0297c2aa.js",
-    "static/js/787.ba49525a.chunk.js": "/BookMovie/static/js/787.ba49525a.chunk.js",
-    "index.html": "/BookMovie/index.html",
-    "main.073c9b0a.css.map": "/BookMovie/static/css/main.073c9b0a.css.map",
-    "main.0297c2aa.js.map": "/BookMovie/static/js/main.0297c2aa.js.map",
-    "787.ba49525a.chunk.js.map": "/BookMovie/static/js/787.ba49525a.chunk.js.map"
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.bd52cb2b.js",
+    "static/js/787.ba49525a.chunk.js": "/static/js/787.ba49525a.chunk.js",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.bd52cb2b.js.map": "/static/js/main.bd52cb2b.js.map",
+    "787.ba49525a.chunk.js.map": "/static/js/787.ba49525a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.0297c2aa.js"
+    "static/js/main.bd52cb2b.js"
   ]
 }
